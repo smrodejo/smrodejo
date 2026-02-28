@@ -2,4 +2,4 @@
 
 🌱 I’m currently learning cloud engineering on Learn to Cloud
 
-🚀 My goal is to be a Cloud Engineer 🚀🚀🚀
+🚀 My goal is to be a Cloud Engineer 
